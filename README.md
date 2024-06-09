@@ -7,7 +7,7 @@ This is a Node.js command-line application that generates a simple logo based on
 1. Make sure you have Node.js installed on your machine.
 2. Clone this repository git@github.com:tcarocci/SVG_Logo_Maker.git.
 3. Navigate to the project directory.
-4. Install dependencies by running `npm install` .
+4. Install dependencies by running `npm install`.
 5. Run the application using `node index.js`.
 6. Follow the prompts to enter text, text color, shape, and shape color.
 7. Once completed, the generated SVG file (`logo.svg`) will be saved in the project root directory.
@@ -15,7 +15,7 @@ This is a Node.js command-line application that generates a simple logo based on
 
 ## Video Demonstration
 
-[Link to Video Demonstration](<insert link here>)
+[Link to Video Demonstration](https://app.screencastify.com/v2/manage/videos/shk9iEAcoBYsKz8B9xV0)
 
 ## Additional Information
 
