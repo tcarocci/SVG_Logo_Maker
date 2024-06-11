@@ -15,7 +15,7 @@ This is a Node.js command-line application that generates a simple logo based on
 
 ## Video Demonstration
 
-[Link to Video Demonstration](https://app.screencastify.com/v2/manage/videos/shk9iEAcoBYsKz8B9xV0)
+[Link to Video Demonstration](https://app.screencastify.com/v3/watch/shk9iEAcoBYsKz8B9xV0)
 
 ## Additional Information
 
